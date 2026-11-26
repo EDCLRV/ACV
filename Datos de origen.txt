@@ -1,0 +1,15 @@
+https://github.com/georgemelrose/Patient-Level-Stroke-Prediction-Models/blob/main/healthcare-dataset-stroke-data.csv
+
+
+https://data.mendeley.com/datasets/s2nh6fm925/1
+
+This dataset is a synthetic version inspired by the original "Stroke Prediction Dataset" on Kaggle. It contains anonymized, artificially generated data intended for research and model training on healthcare-related stroke prediction. The dataset generated using GPT-4o contains 50,000 records and 12 features. The target variable is stroke, a binary classification where 1 represents stroke occurrence and 0 represents no stroke. The dataset includes both numerical and categorical features, requiring preprocessing steps before analysis. A small portion of the entries includes intentionally introduced missing values to allow users to practice various data preprocessing techniques such as imputation, missing data analysis, and cleaning.
+The dataset is suitable for educational and research purposes, particularly in machine learning tasks related to classification, healthcare analytics, and data cleaning.
+No real-world patient information was used in creating this dataset.
+
+
+Este conjunto de datos es una versión sintética inspirada en el "Stroke Prediction Dataset" original en Kaggle. Contiene datos anonimizados y generados artificialmente destinados a la investigación y el entrenamiento de modelos sobre predicción de accidentes cerebrovasculares relacionados con la atención médica. El conjunto de datos generado utilizando GPT-4o contiene 50.000 registros y 12 características. La variable objetivo es stroke, una clasificación binaria donde 1 representa la ocurrencia de un stroke y 0 no representa ningún stroke. El conjunto de datos incluye tanto características numéricas como categóricas, que requieren pasos de preprocesamiento antes del análisis. Una pequeña parte de las entradas incluye valores omitidos introducidos intencionalmente para permitir a los usuarios practicar varias técnicas de preprocesamiento de datos como la imputación, el análisis de datos omitidos y la limpieza. El conjunto de datos es adecuado para fines educativos y de investigación
+
+Datos clínicos y predicción: El conocido Stroke Prediction Dataset de Kaggle (y versiones ampliadas como el conjunto de datos sintéticos en Mendeley Data) reúne variables demográficas y clínicas (edad, hipertensión, nivel de glucosa, IMC, tabaquismo) para entrenar modelos de clasificación binaria
+
+https://github.com/AdalbertoCV/stroke_classification_RF
